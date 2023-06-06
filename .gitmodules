@@ -22,3 +22,6 @@
 [submodule "Anwendung/sidekick-modules/scratch-gui"]
 	path = Anwendung/sidekick-modules/scratch-gui
 	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-gui
+[submodule "Anwendung/sidekick-modules/--force"]
+	path = Anwendung/sidekick-modules/--force
+	url = https://github.com/Menersar/clipcc-extension
