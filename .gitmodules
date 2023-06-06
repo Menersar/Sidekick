@@ -1,24 +1,24 @@
 [submodule "Anwendung/sidekick-modules/clipcc-extension"]
 	path = Anwendung/sidekick-modules/clipcc-extension
-	url = https://github.com/Menersar/clipcc-extension
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/clipcc-extension
 [submodule "Anwendung/sidekick-modules/scratch-blocks"]
 	path = Anwendung/sidekick-modules/scratch-blocks
-	url = https://github.com/Menersar/scratch-blocks
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-blocks
 [submodule "Anwendung/sidekick-modules/scratch-vm"]
 	path = Anwendung/sidekick-modules/scratch-vm
-	url = https://github.com/Menersar/scratch-vm
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-vm
 [submodule "Anwendung/sidekick-modules/scratch-desktop"]
 	path = Anwendung/sidekick-modules/scratch-desktop
-	url = https://github.com/Menersar/scratch-desktop
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-desktop
 [submodule "Anwendung/sidekick-modules/scratch-l10n"]
 	path = Anwendung/sidekick-modules/scratch-l10n
-	url = https://github.com/Menersar/scratch-l10n
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-l10n
 [submodule "Anwendung/sidekick-modules/scratch-paint"]
 	path = Anwendung/sidekick-modules/scratch-paint
-	url = https://github.com/Menersar/scratch-paint
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-paint
 [submodule "Anwendung/sidekick-modules/scratch-render"]
 	path = Anwendung/sidekick-modules/scratch-render
-	url = https://github.com/Menersar/scratch-render
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-render
 [submodule "Anwendung/sidekick-modules/scratch-gui"]
 	path = Anwendung/sidekick-modules/scratch-gui
-	url = https://github.com/Menersar/scratch-gui
+	url = https://github.com/Menersar/Sidekick/tree/main/Anwendung/sidekick-modules/scratch-gui
